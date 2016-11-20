@@ -8,11 +8,12 @@
 <body>
     <?php
         $attributes = [
-            'nome'  => 'Game',
+            'nome'  => 'Battlefield 1',
             'preco' => 99.90
         ];
         
-        cadastrar('produto', $attributes);
+        atualizar(1, 'produto', $attributes);
+         
     ?>
 </body>
 </html>

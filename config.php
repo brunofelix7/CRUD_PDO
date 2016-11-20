@@ -6,3 +6,4 @@
     require 'vendor/autoload.php';
     require 'app/functions/conexao/conexao.php';
     require 'app/functions/crud/cadastrar.php';
+    require 'app/functions/crud/atualizar.php';
