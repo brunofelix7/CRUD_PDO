@@ -7,3 +7,5 @@
     require 'app/functions/conexao/conexao.php';
     require 'app/functions/crud/cadastrar.php';
     require 'app/functions/crud/atualizar.php';
+    require 'app/functions/crud/listar.php';
+    require 'app/functions/crud/deletar.php';
